@@ -1,0 +1,6 @@
+{
+    "User_already_exists": "उपयोगकर्ता पहले से मौजूद है",
+    "Invalid_credentials": "अमान्य प्रमाणीकरण",
+    "User_registered_successfully": "उपयोगकर्ता सफलतापूर्वक पंजीकृत हुआ",
+    "User_not_found": "उपयोगकर्ता नहीं मिला"
+}

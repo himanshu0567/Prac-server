@@ -1,0 +1,6 @@
+{
+    "User_already_exists": "El usuario ya existe",
+    "Invalid_credentials": "Credenciales inválidas",
+    "User_registered_successfully": "Usuario registrado exitosamente",
+    "User_not_found": "Usuario no encontrado"
+}
